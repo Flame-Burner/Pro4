@@ -1,0 +1,10 @@
+{
+    "name": "Pro4",
+    "version": "1.0.0",
+    "manifest_version": 1,
+    "project_type": "application",
+    "executable_type": "scratch",
+    "executable": "Pro4.xml",
+    "author": "Flame-Burner",
+    "minimum_firmware_version": 42
+}
