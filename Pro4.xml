@@ -17,7 +17,17 @@
                   </block>
                 </value>
                 <next>
-                  <block type="movement_stop" id="8"></block>
+                  <block type="led_select" id="17" inline="true">
+                    <field name="ACTION">FLASH</field>
+                    <value name="LED">
+                      <block type="math_number" id="18">
+                        <field name="NUM">1</field>
+                      </block>
+                    </value>
+                    <next>
+                      <block type="movement_stop" id="8"></block>
+                    </next>
+                  </block>
                 </next>
               </block>
             </next>
