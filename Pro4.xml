@@ -17,7 +17,7 @@
                   </block>
                 </value>
                 <next>
-                  <block type="movement_reverse" id="7"></block>
+                  <block type="movement_stop" id="8"></block>
                 </next>
               </block>
             </next>
@@ -26,5 +26,4 @@
       </block>
     </next>
   </block>
-  <block type="movement_stop" id="8" x="43" y="274"></block>
 </xml>
